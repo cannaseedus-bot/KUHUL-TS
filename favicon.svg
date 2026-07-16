@@ -1,0 +1,14 @@
+<svg viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+  <!-- Simplified KUHUL favicon -->
+  <circle cx="16" cy="16" r="15" fill="#0f172a" stroke="#6366f1" stroke-width="2"/>
+  
+  <!-- 5 fold segments (simplified) -->
+  <path d="M 16,3 A 13,13 0 0,1 28,16 L 25,16 A 10,10 0 0,0 16,6 Z" fill="#6366f1"/>
+  <path d="M 28,16 A 13,13 0 0,1 16,29 L 16,26 A 10,10 0 0,0 25,16 Z" fill="#8b5cf6"/>
+  <path d="M 16,29 A 13,13 0 0,1 4,16 L 7,16 A 10,10 0 0,0 16,26 Z" fill="#d946ef"/>
+  
+  <!-- Central kernel -->
+  <circle cx="16" cy="16" r="5" fill="#f59e0b"/>
+  <circle cx="16" cy="16" r="3" fill="#1e293b"/>
+  <circle cx="16" cy="16" r="1.5" fill="#f59e0b"/>
+</svg>
