@@ -1,0 +1,53 @@
+{
+  "name": "@kuhul/ts",
+  "version": "1.0.0",
+  "description": "KUHUL TypeScript - TypeScript syntax with KUHUL deterministic semantics",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "bin": {
+    "kuhul-ts": "./dist/cli.js"
+  },
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "build:watch": "tsc -p tsconfig.json --watch",
+    "clean": "rimraf dist",
+    "test": "jest",
+    "example": "node dist/example/physics_simulation.js",
+    "compile:scx2": "node dist/scx2/SCXQ2_IR.js",
+    "compile:wgsl": "node dist/scx2/backends/WGSLCompiler.js",
+    "compile:hlsl": "node dist/scx2/backends/HLSLCompiler.js",
+    "compile:opencl": "node dist/scx2/backends/OpenCLCompiler.js"
+  },
+  "keywords": [
+    "kuhul",
+    "typescript",
+    "physics",
+    "deterministic",
+    "scxq2",
+    "gpu",
+    "webgpu",
+    "wgsl",
+    "hlsl",
+    "opencl"
+  ],
+  "author": "KUHUL Team",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "commander": "^11.0.0"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.43",
+    "rimraf": "^5.0.0",
+    "typescript": "^5.9.3"
+  },
+  "files": [
+    "dist/",
+    "README.md",
+    "LICENSE"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kuhul/kuhul-ts.git"
+  }
+}
