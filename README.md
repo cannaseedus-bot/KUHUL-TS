@@ -3,7 +3,10 @@
 **A domain-agnostic semantic graph runtime with TypeScript syntax**
 
 [![npm](https://img.shields.io/npm/v/@kuhul/ts.svg)](https://www.npmjs.com/package/@kuhul/ts) [![License](https://img.shields.io/npm/l/@kuhul/ts.svg)](LICENSE)
+---
 
+---
+https://www.npmjs.com/package/@kuhul/ts
 ---
 
 ## 🎯 The Critical Insight
