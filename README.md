@@ -1,9 +1,8 @@
 # 🏛️ KUHUL TypeScript (KUHUL-TS)
 
 **A domain-agnostic semantic graph runtime with TypeScript syntax**
-[![npm](https://img.shields.io/npm/v/@kuhul/ts.svg)](https://www.npmjs.com/package/@kuhul/ts)
 
-[![License](https://img.shields.io/npm/l/@kuhul/ts.svg)](LICENSE)
+[![npm](https://img.shields.io/npm/v/@kuhul/ts.svg)](https://www.npmjs.com/package/@kuhul/ts) [![License](https://img.shields.io/npm/l/@kuhul/ts.svg)](LICENSE)
 
 ---
 
