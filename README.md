@@ -2,7 +2,7 @@
 
 **A domain-agnostic semantic graph runtime with TypeScript syntax**
 
-<img src="https://github.com/cannaseedus-bot/KUHUL-TS/blob/main/logo.svg" width:400>
+<img src="https://github.com/cannaseedus-bot/KUHUL-TS/blob/main/logo.svg" style="width:250px">
 
 [![npm](https://img.shields.io/npm/v/@kuhul/ts.svg)](https://www.npmjs.com/package/@kuhul/ts) [![License](https://img.shields.io/npm/l/@kuhul/ts.svg)](LICENSE)
 ---
